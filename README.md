@@ -1,6 +1,2 @@
 ![PDF Preview](cv1.jpg)
 ![PDF Preview](cv2.jpg)
-![PDF Preview](/cv1.jpg)
-![PDF Preview](/cv2.jpg)
-![PDF Preview](cv.png)
-![PDF Preview](/cv.png)
