@@ -1,2 +1,1 @@
-![PDF Preview](cv1.jpg)
-![PDF Preview](cv2.jpg)
+[Martin Cuka CV 2025.pdf](Martin%20Cuka%20CV%202025.pdf)
